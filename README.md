@@ -40,3 +40,21 @@ This design showcases the Fitness Compass app, featuring two areas: one for cust
 ![1](https://github.com/user-attachments/assets/d9c0f44b-2821-4c79-9d18-75f3cc12fff0)
 ![Frame 2](https://github.com/user-attachments/assets/b11473cc-e76b-4c43-ae4e-fd2521341512)
 
+
+
+### 3. Beutelbacher Kiosk Tracking App
+
+This design introduces the Beutelbacher Kiosk app, allowing customers to conveniently check if their packages have arrived at the kiosk. The app is designed to enhance the customer experience by simplifying the package tracking process, ensuring a seamless and efficient interaction across both mobile and desktop platforms.
+
+#### Key Features:
+
+- **Package Status Check**: Users can enter their tracking number to quickly verify if their package has been delivered to the kiosk.
+- **Responsive Design**: The app is optimized for both mobile devices and desktop screens, ensuring a smooth experience on any device.
+- **Contact and Directions**: The app provides easy access to the kiosk's address, contact information, and a map for navigating to the location.
+- **Simple and Clean Interface**: The design focuses on user-friendliness with a minimalist approach, ensuring that customers can easily find and use the tracking feature.
+- **Efficient Information Access**: Customers can avoid unnecessary visits by confirming the status of their packages in advance.
+
+The Beutelbacher Kiosk app offers a straightforward and efficient solution for customers to track their packages, reducing waiting time and enhancing convenience.
+
+![5](https://github.com/user-attachments/assets/f0d98179-1ef5-471d-a4d0-bb51c5fd79b1)
+![6](https://github.com/user-attachments/assets/bce88810-2647-4b13-8a79-cfae69c5fa2e)
