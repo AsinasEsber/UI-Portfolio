@@ -19,7 +19,8 @@ This design presents the vintage fashion website UNIQUE, bringing 1950s style to
 - **User-Friendly Design**: Emphasis on intuitive navigation and a nostalgic 1950s aesthetic.
 
 ![3](https://github.com/user-attachments/assets/4f91482c-156e-44e8-94f8-f20db34c0f59)
-![Frame 4](https://github.com/user-attachments/assets/af939db9-8c26-459a-8346-9248c07d1254)
+![4](https://github.com/user-attachments/assets/5d5b0373-3a03-4fb1-9e7f-1c29fbd2e80a)
+
 
 
 
@@ -38,7 +39,8 @@ This design showcases the Fitness Compass app, featuring two areas: one for cust
 - **User-Friendly Design**: Emphasis on ease of use, intuitive navigation, and a clean, modern look to keep users engaged and motivated.
 
 ![1](https://github.com/user-attachments/assets/d9c0f44b-2821-4c79-9d18-75f3cc12fff0)
-![Frame 2](https://github.com/user-attachments/assets/b11473cc-e76b-4c43-ae4e-fd2521341512)
+![2](https://github.com/user-attachments/assets/3ec4ac1b-fda7-4e11-9474-e276a37b3d45)
+
 
 
 
