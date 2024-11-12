@@ -1,62 +1,53 @@
 # UI-Design
-
-This repository showcases two projects, each with a distinct focus and design: a vintage fashion app and a fitness tracking app. Below you'll find an overview of each project, along with setup instructions and key features.
+This repository showcases my UI design projects, each addressing unique user needs and applying user-centered design principles. Below is a brief overview of each project:
 
 ## Projects
 
-### 1. Unique Vintage Fashion App
+## 1. ACILV - Company Workflow Management Tool
+**Goal**: Replace outdated Excel workflows with a comprehensive software solution that enhances team coordination, oversight, and process efficiency.  
 
-This design presents the vintage fashion website UNIQUE, bringing 1950s style to the modern day. The app aims to provide a seamless shopping experience with a focus on 1950s-inspired clothing.
-
-#### Key Features
-
-- **Intuitive Product Overview**: Collections, bestsellers, and personalized recommendations.
-- **Clear Categories**: Easy navigation through categories like "Dresses," "Blouses," and "Best Sellers."
-- **Detailed Product Pages**: High-resolution images, descriptions, and pricing.
-- **Wishlist and Recommendations**: Save favorite items and receive personalized suggestions.
-- **Newsletter Subscription**: Exclusive offers and discounts for subscribers.
-- **Customer Reviews and Social Media Integration**: Build trust and facilitate easy sharing.
-- **User-Friendly Design**: Emphasis on intuitive navigation and a nostalgic 1950s aesthetic.
-
-![3](https://github.com/user-attachments/assets/4f91482c-156e-44e8-94f8-f20db34c0f59)
-![4](https://github.com/user-attachments/assets/5d5b0373-3a03-4fb1-9e7f-1c29fbd2e80a)
+**Highlights**:
+- Designed for employees, HR, and supervisors to streamline task management, real-time monitoring, and easy communication.
+- **Time, Vacation, and Illness Requests**: Provides an efficient process for employees to log work hours, request vacation days, and report illness, with quick approvals to reduce administrative delays.
+- HR and supervisors can oversee all employee statuses, maintain accurate records, and respond promptly to requests.
+- Desktop-focused design with a professional and intuitive interface, created in Figma using Public Sans typography and a cohesive, modern color scheme.
+  
+![7](https://github.com/user-attachments/assets/ad66327c-763a-4986-9a3d-c418be6d68ad)
+![8](https://github.com/user-attachments/assets/5d0c8864-7ecc-4d47-b3b7-bb66b2a8ba58)
 
 
+## 2. Fitness Compass - Health & Training App
+**Goal**: Exam project to create a fitness tracker with features for clients and trainers to manage health and workout plans.  
+
+**Highlights**:
+- Dual functionality for clients and trainers, including workout and nutrition tracking.
+- Integration with certified trainers, personalized training plans, and secure user authentication.
+- Optimized for iPhone screens with a fresh, vibrant color scheme and Inter typography.
+  
+![1](https://github.com/user-attachments/assets/ed2d5a47-1352-4b9a-8fd3-fa04787a021f)
+![2](https://github.com/user-attachments/assets/195e45f6-ada8-4eeb-b8a7-5df4ad93cfa2)
 
 
-### 2. Fitness Compass
+## 3. Unique Vintage Fashion App
+**Goal**: Learn Figma and design a vintage online clothing store inspired by the 1950s.  
 
-This design showcases the Fitness Compass app, featuring two areas: one for customers and one for trainers. The app includes features for tracking workouts, managing nutrition, and connecting with personal trainers.
-
-#### Key Features
-
-- **Secure User Authentication**: Sign-up and login screens.
-- **User Dashboard**: Display health metrics (fat, cholesterol, steps) and quick access to personalized training plans and schedules.
-- **Customized Training Programs**: Personalized training plans and session scheduling.
-- **Nutrition Section**: Healthy recipes and meal plans.
-- **Personal Trainer Access**: Connect with certified trainers; trainers must upload their licenses for authentication.
-- **User Profiles**: Track progress with detailed user profiles.
-- **User-Friendly Design**: Emphasis on ease of use, intuitive navigation, and a clean, modern look to keep users engaged and motivated.
-
-![1](https://github.com/user-attachments/assets/d9c0f44b-2821-4c79-9d18-75f3cc12fff0)
-![2](https://github.com/user-attachments/assets/3ec4ac1b-fda7-4e11-9474-e276a37b3d45)
+**Highlights**:
+- Nostalgic, user-friendly shopping experience focused on 1950s fashion.
+- Key features include personalized recommendations, product categories, and wishlist functionality.
+- Styled with Zen Antique Soft typography and a warm, vintage-inspired color scheme.
+  
+![3](https://github.com/user-attachments/assets/c07370c2-b3fd-4283-9333-eb649228eb37)
+![4](https://github.com/user-attachments/assets/8b7dc1db-8a2a-4688-b347-7ee7185b8dde)
 
 
+## 4. Beutelbacher Kiosk Tracking App
+**Goal**: Develop a tracking tool for customers to check package statuses at a family-run kiosk.  
 
+**Highlights**:
+- Simplified package tracking by entering tracking numbers for real-time status updates.
+- Responsive design for iPhone and desktop, focusing on clean, accessible usability.
+- Clear, professional look with Inter typography for a straightforward user experience.
+  
+![5](https://github.com/user-attachments/assets/dd5d5579-56bb-4e46-9947-b91434647d4a)
+![6](https://github.com/user-attachments/assets/374fe7bf-b21d-49f6-8ec2-17d704289b2d)
 
-### 3. Beutelbacher Kiosk Tracking App
-
-This design introduces the Beutelbacher Kiosk app, allowing customers to conveniently check if their packages have arrived at the kiosk. The app is designed to enhance the customer experience by simplifying the package tracking process, ensuring a seamless and efficient interaction across both mobile and desktop platforms.
-
-#### Key Features:
-
-- **Package Status Check**: Users can enter their tracking number to quickly verify if their package has been delivered to the kiosk.
-- **Responsive Design**: The app is optimized for both mobile devices and desktop screens, ensuring a smooth experience on any device.
-- **Contact and Directions**: The app provides easy access to the kiosk's address, contact information, and a map for navigating to the location.
-- **Simple and Clean Interface**: The design focuses on user-friendliness with a minimalist approach, ensuring that customers can easily find and use the tracking feature.
-- **Efficient Information Access**: Customers can avoid unnecessary visits by confirming the status of their packages in advance.
-
-The Beutelbacher Kiosk app offers a straightforward and efficient solution for customers to track their packages, reducing waiting time and enhancing convenience.
-
-![5](https://github.com/user-attachments/assets/f0d98179-1ef5-471d-a4d0-bb51c5fd79b1)
-![6](https://github.com/user-attachments/assets/bce88810-2647-4b13-8a79-cfae69c5fa2e)
